@@ -1,6 +1,6 @@
 my first day of junior year
 
-![waking up](https://images.app.goo.gl/fYYHs6k22FUVBD7Y6)
+![waking up](morning.jpg)
 
 [go to school](choiceone.md)
 
